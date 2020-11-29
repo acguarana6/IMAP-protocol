@@ -1,0 +1,121 @@
+{
+    "hannah@mymailserver.com": [
+        [
+            "hannah@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: hello",
+            "hello \r\nwut up\r\n",
+            0
+        ],
+        [
+            "hannah@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: hey",
+            "hi\r\n",
+            0
+        ],
+        [
+            "hannah@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: spanish",
+            "hola\r\n",
+            0
+        ],
+        [
+            "hannah@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: knock knock",
+            " knock \r\nknock\r\n",
+            0
+        ],
+        [
+            "hannah@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: who?",
+            "who's \r\n there? \r\n",
+            0
+        ],
+        [
+            "hannah@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: testing123",
+            " testing\r\n!!!!\r\n",
+            0
+        ]
+    ],
+    "elaney@mymailserver.com": [
+        [
+            "elaney@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: hello",
+            "hello \r\nwut up\r\n",
+            0
+        ],
+        [
+            "elaney@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: hey",
+            "hi\r\n",
+            0
+        ],
+        [
+            "elaney@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: spanish",
+            "hola\r\n",
+            0
+        ],
+        [
+            "elaney@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: happy birthday",
+            "wishing you \r\na great day :)\r\n",
+            0
+        ],
+        [
+            "elaney@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: happy end of term",
+            "enjoy your 7 day break\r\n",
+            0
+        ],
+        [
+            "elaney@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: hi christine",
+            "we hope you're enjoying looking at this code\r\n",
+            0
+        ]
+    ],
+    "alex@mymailserver.com": [
+        [
+            "alex@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: testing!!",
+            "hope you're receiving \r\nthis email\r\n",
+            0
+        ],
+        [
+            "alex@mymailserver.com",
+            "elaney@mymailserver.com",
+            "re: friday",
+            "do you have class on friday?\r\n",
+            0
+        ],
+        [
+            "alex@mymailserver.com",
+            "wabil@mymailserver.com",
+            "re: break",
+            "do you have plans for break?\r\n",
+            0
+        ],
+        [
+            "alex@mymailserver.com",
+            "hannah@mymailserver.com",
+            "re: classes for term 2 ",
+            "what classes are \r\nyou taking next term?\r\n",
+            0
+        ]
+    ],
+    "wabil@mymailserver.com": []
+}
